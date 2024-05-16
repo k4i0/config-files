@@ -12,4 +12,4 @@ nnoremap ç l
 vnoremap j h
 vnoremap l j
 vnoremap ç l
-inoremap <Space><Space> <Esc>/<++><Enter>4xi
+inoremap \\ <Esc>/<++><Enter>4xi
